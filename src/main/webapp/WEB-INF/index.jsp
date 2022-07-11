@@ -39,7 +39,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ">
                 <li class="nav-item ">
-                  <a class="nav-link active font-size" aria-current="page" href="/dashboard">Nowak Work</a>
+                  <a class="nav-link active font-size" aria-current="page" href="/dashboard">Nowak Worksss</a>
                 </li>
               </ul>
             </div>
