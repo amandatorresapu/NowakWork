@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+	body {
+      background-image: url("images/tools.jpg");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+     --bs-body-color: white;
+      }
+      
+     table {
+     color:white;
+     --bs-body-color: white;
+     }
+   
+    .font-size {
+      font-size: larger;
+      font-style: italic;
+      font-weight: bold;
+    }
+    .transparent-input {
+      background-color: rgba(189, 178, 178, 0.5);
+      border:black;
+    }
+    .rounded-t-5 {
+      border-top-left-radius: 0.5rem;
+      border-top-right-radius: 0.5rem;
+    }
+    @media (min-width: 992px) {
+      .rounded-tr-lg-0 {
+        border-top-right-radius: 0;
+      }
+      .rounded-bl-lg-5 {
+        border-bottom-left-radius: 0.5rem;
+      }
+    }
